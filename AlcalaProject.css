@@ -1,0 +1,176 @@
+body {
+    font-size: 16px;
+    background-color: rgba(151, 149, 149, 0.63);
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    text-align: center;
+}
+
+p {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    line-height: 1.4em;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h1{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 39.06px;
+    padding-bottom: .5em;
+    margin: 0px;  
+    background-color: rgba(151, 149, 149, 0.836);
+}
+
+h2{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 31.25px;
+    padding-bottom: .3em;
+    margin: 0px;
+    background-color: rgba(185, 63, 8, 1.0);
+}
+
+h3{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 500;
+}
+
+figure.grad{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+div.gradColumn{
+    flex: 50%;
+    padding: 10px;
+    margin: 0;
+}
+
+a{
+    font-family: 'Oswald';
+    padding-top: .5em;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:link{
+    font-family: 'Oswald';
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited{
+    font-family: 'Oswald';
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover{
+    font-family: 'Oswald';
+    color: blue;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: rgb(245, 101, 109);
+    padding: 10px;
+}
+
+img{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+img.cameras{
+    object-fit: contain;
+    margin: 0;
+    padding: 0;
+    border: none;
+    max-width: 100%;
+    height: auto;
+}
+
+img.grad{
+    max-width: 500px;
+    height: auto;
+    overflow: hidden;
+}
+
+img.recreatedgrad{
+    max-width: 595px;
+    height: auto;
+    overflow: hidden;
+}
+
+img.yAndT{
+
+    width: auto;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+img.hawaii{
+
+    width: auto;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+img.bed{
+
+    width: auto;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+img.table{
+
+    width: auto;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+img.yoni{
+
+    transform: rotate(90deg);
+    width: auto;
+    max-height: 250px;
+    overflow: hidden;
+}
+
+figure.friends{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+div.pictures{
+    flex: 50%;
+    padding: 10px;
+    margin: 0;
+}
+
+figure.projects{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+div.woodworking{
+    flex: 50%;
+    padding: 10px;
+    margin: 0;
+}
+
+
+
+
